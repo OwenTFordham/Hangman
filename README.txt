@@ -1,0 +1,1 @@
+A hangman game which can be ran through the developer console, to play simply copy and paste the code into the developer console.
